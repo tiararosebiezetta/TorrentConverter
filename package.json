@@ -3,6 +3,9 @@
   "description": "A Telegram bot to convert Torrent files to magnetic link",
   "version": "1.0.0",
   "main": "bot.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "start": "bash start.sh"
   },
