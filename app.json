@@ -1,0 +1,15 @@
+{
+  "name": "TorrentConverter",
+  "repository": "https://github.com/tiararosebiezetta/TorrentConverter",
+  "env": {
+		"OWNER_ID": {
+			"description": "Your telegram ID"
+		},
+		"DETA_DB_TOKEN": {
+			"description": "I don't know what this is, maybe you can just leave this empty"
+		},
+		"BOT_TOKEN": {
+			"description": "Your telegram bot token"
+		}
+	}
+}
