@@ -1,6 +1,8 @@
 # Torrent Converter
 ( Live: [@TorrentToMagnetRobot](https://t.me/TorrentToMagnetRobot) )
 
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tiararosebiezetta/TorrentConverter)
+
 A Telegram bot to convert Torrent files -> magnet links & vice versa.
 
 Works in Groups & private conversations.
